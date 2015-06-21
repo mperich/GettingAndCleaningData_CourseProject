@@ -1,4 +1,4 @@
-Data Tidying Steps
+<h2>Data Tidying Steps</h2>
 
 The original data was split into 7 files. These included:
 
@@ -21,7 +21,7 @@ The numeric activity labels were replaced with descriptive strings according to 
 
 Finally, variable names were made more descriptive and cleaned up using the function ToDescriptiveVariableName. This function replaced various abbreviations with more readable descriptions and removed some extraneous text introduced when parsing variable names from files.
 
-Variables
+<h2>Variables</h2>
 
 Description from original dataset, modified to describe cleaned variable names.
 
