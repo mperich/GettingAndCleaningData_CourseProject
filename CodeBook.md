@@ -68,7 +68,7 @@ A human described activity label for the data observation from one of: WALKING, 
 
 <h1>Summary File</h1>
 
-A seperate dataset is created which computes the mean for each (Subject ID + Activity) combination and is written to "HumanActivityData_Averages_By_Subject_And_Activity.txt"
+A seperate dataset is created which computes the mean for each variable for each (Subject ID + Activity) combination and is written to "HumanActivityData_Averages_By_Subject_And_Activity.txt"
 
 
 
