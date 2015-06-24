@@ -44,7 +44,7 @@ GetColumnNamesFromFile <- function()
 
 #This script might be put into either the root directory of the dataset, or else in the "UCI HAR Dataset" directory
 #If it is in the root directory we need to set the correct working directory.
-if (file.exists(".\\UCI HAR Dataset\\features.txt")
+if (file.exists(".\\UCI HAR Dataset\\features.txt"))
     setwd(".\\UCI HAR Dataset\\")
 
 parsedColNames <- GetColumnNamesFromFile()
